@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Heading>🐬 Capstone Template 🐬</Heading>
-      <SubHeading>We dolphinitely love testing!</SubHeading>
+      <SubHeading>We dolphinitely love coding!</SubHeading>
     </main>
   );
 }
